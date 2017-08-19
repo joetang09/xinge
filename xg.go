@@ -1,4 +1,4 @@
-package xg
+package xinge
 
 import (
 	"crypto/md5"
